@@ -1,4 +1,0 @@
-service/EchoService.class
-server/Server.class
-pojo/ModelData.class
-service/impl/EchoServiceImpl.class
